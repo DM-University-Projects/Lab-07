@@ -1,3 +1,15 @@
+.image1{
+
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.div {
+	float: left;
+	display: block;
+}
+
 figure {
   width: 200px;
   background: #aaa;
